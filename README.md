@@ -6,7 +6,9 @@ As a novice to the glorious world of technology, I have been taking short online
 
 The primary objective of this data visualisation is to provide a simple yet helpful overview of all AirBnB listings in Singapore. I had used Tableau Public to develop this dashboard, working with AirBnB dataset taken from [Inside Airbnb](http://insideairbnb.com/get-the-data.html). The data was last compiled on 26 December 2021.
 
-For anyone who would like to explore the various charts featured in the dashboard, please visit the interactive version [here](https://public.tableau.com/views/AirBnBinSingapore/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+![AirBnB_Singapore_Dashboard](https://user-images.githubusercontent.com/98215213/150661642-365dbd54-13bc-4036-90da-f7bf6c5a4fff.png)
+
+For anyone who would like to access the various charts featured in the dashboard and explore further, please have a look at the interactive version [here](https://public.tableau.com/views/AirBnBinSingapore/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) or download the Tableau workbook found in this repository.
 
 This may be my first attempt in using Tableau, but it will not be my last. If I have made any errors, it is of my own fault.
 
